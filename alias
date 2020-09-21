@@ -1,4 +1,7 @@
 # Chamada de programas do windows 
+# Para instalar basta incluir as linhas no final do .bashrc
+# "echo alias &>>.bashrc"
+
 #alias firefox='/mnt/c/Program\ Files/Mozilla\ Firefox/firefox.exe'
 alias firefox="/mnt/c/Program\ Files\ \(x86\)/Mozilla\ Firefox/firefox.exe"
 alias sub="/mnt/c/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
